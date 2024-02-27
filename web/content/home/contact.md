@@ -11,12 +11,21 @@ weight: 130
 title: Contact
 subtitle:
 
+#content:
 content:
+  form:
+    provider: formspree
+    formspree:
+      id: mqkvjwge
+      captcha: true # By default false
+      captcha_key: 6LcGKQ0pAAAAAN9ElVsgjBixhHw0eKCm5FCG1c8I 
+      # From https://www.google.com/recaptcha/admin . Use v2 Checkbox
+
   # Automatically link email and phone or display as text?
-  autolink: true
+  #autolink: true
 
   # Email form provider
-  # form:
+  # form: 
   # provider: netlify
    #  formspree:
    #    id:
@@ -25,10 +34,10 @@ content:
     #   captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dkazibwe@deakin.edu.au
-  phone: +61416956540
+  #email: dkazibwe@deakin.edu.au
+  phone: 61416956540
   address:
-    street: 28/60 Elgar Rd,
+    street: 28/60 Elgar Rd
     city: Burwood
     region: VIC
     postcode: '3125'

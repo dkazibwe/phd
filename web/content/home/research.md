@@ -5,9 +5,9 @@ widget: collection
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 # Order that this section appears on the page.
-weight: 100
+weight: 30
 
 title: Working Papers
 subtitle: ''
@@ -19,7 +19,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: "3"
     author: ''
     exclude_featured: false
     exclude_future: false
@@ -34,8 +34,6 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+  
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering research](./research/).
-{{% /callout %}}

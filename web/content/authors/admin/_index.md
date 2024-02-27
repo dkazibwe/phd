@@ -4,13 +4,13 @@ education:
   courses:
   - course: PhD in Economics
     institution: Deakin University
-    year: Expected 2023
+    year: Expected 2024
   - course: MSc. Economics
     institution: Sveriges lantbruksuniversitet
     year: 2019
   - course: BA. Economics
     institution: Makerere University
-    year: 2008
+    year: 2009
 email: ""
 first_name: Douglas
 highlight_name: true
@@ -46,7 +46,9 @@ superuser: true
 title: Douglas Kazibwe
 ---
 
-Douglas Kazibwe is  an Applied Microeconomist with research interests spanning the fields of Development Economics, Economics of Education and Health Economics.
+**I am on the 2023/2024 Job Market**.
+
+I am  an Applied Microeconomist with research interests spanning the fields of Development Economics, Economics of Education and Health Economics.
 
 My current research agenda focuses on the effects of early-life shocks and early childhood/adolescent investments on later-life (adult) outcomes, evaluating the impact of public programs and the long-term impact of conflicts on economic development.
 
