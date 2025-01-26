@@ -35,18 +35,18 @@ content:
 
   # Contact details (edit or remove options as required)
   #email: dkazibwe@deakin.edu.au
-  phone: 61416956540
+  phone: (202)713-1602
   address:
-    street: 28/60 Elgar Rd
-    city: Burwood
-    region: VIC
-    postcode: '3125'
-    country: Australia
-    country_code: AUS
+    street: 
+    city: Washington
+    region: D.C
+    postcode: '20037'
+    country: United States
+    country_code: US
   coordinates:
-    latitude: '-37.846016'
-    longitude: '145.110368'
-  directions: EA Building, Level 2, EA 2.40
+    latitude: '38.89917'
+    longitude: '-77.04142'
+  directions: 
   contact_links:
     - icon: twitter
       icon_pack: fab
