@@ -20,9 +20,9 @@ interests:
 - Applied microeconometrics
 last_name: Kazibwe
 organizations:
-- name: Deakin University
-  url: https://www.deakin.edu.au/
-role: PhD Candidate in Economics
+- name: World Bank's Africa Region Chief Economist Office
+  url: 
+role: Consultant
 social:
 - icon: envelope
   icon_pack: fas
