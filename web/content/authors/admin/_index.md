@@ -1,10 +1,10 @@
 ---
-bio: My research interests include impact evaluation, gender empowerment and economic well-being.
+bio: My research interests include Development Economics, Economics of Education, Gender Economics, Firm Dynamics and Labour.
 education:
   courses:
   - course: PhD in Economics
     institution: Deakin University
-    year: Expected 2024
+    year: 2024
   - course: MSc. Economics
     institution: Sveriges lantbruksuniversitet
     year: 2019
@@ -48,9 +48,7 @@ title: Douglas Kazibwe
 
 **I am on the 2023/2024 Job Market**.
 
-I am  an Applied Microeconomist with research interests spanning the fields of Development Economics, Economics of Education and Health Economics.
-
-My current research agenda focuses on the effects of early-life shocks and early childhood/adolescent investments on later-life (adult) outcomes, evaluating the impact of public programs and the long-term impact of conflicts on economic development.
+My research fields of interest are health economics, economics of education, labour economics, and development economics. My research focuses on the effects of early-life shocks and early childhood/adolescent investments on later-life (adult) outcomes, evaluating the impact of public programs, firm dynamics and labour, and the long-term impact of conflicts on economic development.
 
 
 
