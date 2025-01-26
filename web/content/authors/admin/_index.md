@@ -46,7 +46,7 @@ superuser: true
 title: Douglas Kazibwe
 ---
 
-**I am on the 2023/2024 Job Market**.
+**I am on the 2024/2025 Job Market**.
 
 My research fields of interest are health economics, economics of education, labour economics, and development economics. My research focuses on the effects of early-life shocks and early childhood/adolescent investments on later-life (adult) outcomes, evaluating the impact of public programs, firm dynamics and labour, and the long-term impact of conflicts on economic development.
 
